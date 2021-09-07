@@ -1,4 +1,4 @@
 :smile:
-<b>Bold</b>
-<p>
-<i>Italic</i>
+**Bold
+
+_Italic
